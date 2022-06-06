@@ -58,6 +58,11 @@
       <footer>
         <div class="social-icons">
 
+          {% if site.github_link %}            
+          <a href="{{ site.github_link }}" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+          {% endif %}
           {% if site.linkedin %}
           <a href="{{ site.linkedin }}" target="_blank">
             <i class="fab fa-linkedin-in"></i>
@@ -68,9 +73,14 @@
             <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
           </a>
           {% endif %}
-          {% if site.github_link %}            
-          <a href="{{ site.github_link }}" target="_blank">
-            <i class="fab fa-github"></i>
+          {% if site.resume %}
+          <a href="{{ site.resume}}" target="_blank">
+            <i class="fas fa-file-pdf"></i>
+          </a>
+          {% endif %}
+          {% if site.stackoverflow %}
+          <a href="{{ site.stackoverflow}}" target="_blank">
+            <i class="fab fa-stack-overflow"></i>
           </a>
           {% endif %}
         </div>

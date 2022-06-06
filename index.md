@@ -2,49 +2,31 @@
 layout: homepage
 ---
 
-## About Me
+# About Me
 
-I am a Ph.D. student at ...
+I am a M.S. student at IIIT Hyderabad. I am advised by [Prof. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) and [Prof. P. K. Vinod](https://faculty.iiit.ac.in/~vinod.pk).
+I am broadly interested in machine learning and computer vision. Specifically my research is focused on representation learning on medical imaging tasks. 
 
-## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 ## Publications
+- **Exploring similarities among cancers from a deep learning perspective**
+  <br>
+  **Piyush Singh**, Ashish Menon, C. V. Jawahar, P. K. Vinod
+  <br>
+ Frontiers in Oncology
+  <br>
+  [[PDF](https://www.frontiersin.org/articles/10.3389/fonc.2022.842759/full)] [[Code](https://github.com/piyush01123/T1_Task)] 
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Interacting Learning for Assisting Whole Slide Image Annotation**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  Ashish Menon, **Piyush Singh**, C. V. Jawahar, P. K. Vinod
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  Asian Conference on Pattern Recognition **ACPR 2021**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](http://cvit.iiit.ac.in/images/ConferencePapers/2021/Interactive_Learning.pdf)] [[Code](https://github.com/piyush01123/ILAWSIA)]
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+## Projects
+- Wikipedi
+abc
