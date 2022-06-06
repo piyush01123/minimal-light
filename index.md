@@ -28,5 +28,38 @@ I am broadly interested in machine learning and computer vision. Specifically my
 
 
 ## Projects
-- Wikipedi
-abc
+### Wikipedia Search Engine
+Built search engine on wiki 75GB dump by chunking, creating inverted index and merging index files.
+<br>
+            <i class="fab fa-github"></i>
+[code](https://github.com/piyush01123/wikipedia-search-engine)
+
+### Personal Mini Cloud
+Quickly share files from command line without any installation.
+<br>
+            <i class="fab fa-github"></i>
+[code](https://github.com/piyush01123/Personal-mini-cloud) | 
+            <i class="fas fa-globe"></i>
+[site](personal-mini-cloud.herokuapp.com/)
+
+### Flask Image Gallery
+An application that lets you quickly view images from your server’s CLI
+<br>
+            <i class="fab fa-github"></i>
+[code](https://github.com/piyush01123/Flask-Image-Gallery) 
+
+### Draw a digit
+An app that lets you draw digit and then guesses it, entirely in your browser
+<br>
+            <i class="fab fa-github"></i>
+[code](https://github.com/piyush01123/Digit-Recognition-with-TFJS) |
+            <i class="fas fa-globe"></i>
+[site](https://piyush01123.github.io/Digit-Recognition-with-TFJS/)
+
+### Captioning app
+Android app for image captioning using RNNs with visual attention
+<br>
+            <i class="fab fa-github"></i>
+[code](https://github.com/piyush01123/The-Caption-App) | 
+<i class="fab fa-google-play"></i>
+[app](https://github.com/piyush-kgp/The-Caption-App/releases/download/v6/TheCaptionApp.apk)
