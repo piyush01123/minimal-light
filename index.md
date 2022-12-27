@@ -28,6 +28,13 @@ I am broadly interested in machine learning and computer vision. Specifically my
 
 
 ## Projects
+### Toy Chat Serrver
+Toy Chat server in C++ using multi-threading and socket programming.
+<br>
+            <i class="fab fa-github"></i>
+[code](https://github.com/piyush01123/Toy-ChatServer)
+
+
 ### Wikipedia Search Engine
 Search engine on wiki 75GB dump by chunking, creating inverted index and merging index files.
 <br>
@@ -49,7 +56,6 @@ Experiments to explore what makes deep networks generalizable.
 [code](https://github.com/piyush01123/Understanding-Deep-Learning-Requires-Rethinking-Generalization)
 
 
-
 ### Panorama generator
 Generate a panorama from multiple images taken from same location.
 <br>
@@ -65,27 +71,11 @@ Implementation of Viola Jones object detection framework from scratch.
 
 
 ### Breaking Neural Nets
-Simple but effective adversarial attacks and defences.
+Simple adversarial attacks and defences.
 <br>
             <i class="fab fa-github"></i>
 [code](https://github.com/piyush01123/Breaking-Convnets)
 
-<br>
-
-## Tools
-### Personal Mini Cloud
-Quickly share files from command line without any installation.
-<br>
-            <i class="fab fa-github"></i>
-[code](https://github.com/piyush01123/Personal-mini-cloud) | 
-            <i class="fas fa-globe"></i>
-[site](personal-mini-cloud.herokuapp.com/)
-
-### Flask Image Gallery
-An application that lets you quickly view images from your server’s CLI
-<br>
-            <i class="fab fa-github"></i>
-[code](https://github.com/piyush01123/Flask-Image-Gallery) 
 
 ### Captioning app
 Android app for image captioning using RNNs with visual attention
@@ -94,3 +84,36 @@ Android app for image captioning using RNNs with visual attention
 [code](https://github.com/piyush01123/The-Caption-App) | 
 <i class="fab fa-google-play"></i>
 [app](https://github.com/piyush-kgp/The-Caption-App/releases/download/v6/TheCaptionApp.apk)
+
+
+### Music cover search engine whitepaper
+Whitepaper on building a music cover search engine.
+<br>
+            <i class="fas fa-file-pdf"></i>
+[whitepaper](./res/whitepaper.pdf)
+
+
+## Tools
+### Flask Image Gallery
+An application that lets you quickly view images from your server’s CLI
+<br>
+            <i class="fab fa-github"></i>
+[code](https://github.com/piyush01123/Flask-Image-Gallery) 
+
+
+### Personal Mini Cloud
+Quickly share files from command line without any installation.
+<br>
+            <i class="fab fa-github"></i>
+[code](https://github.com/piyush01123/Personal-mini-cloud) | 
+            <i class="fas fa-globe"></i>
+[site](personal-mini-cloud.herokuapp.com/)
+
+
+### Terminal Music
+Search and play music on YouTube from your terminal.
+<br>
+            <i class="fab fa-github"></i>
+[code](https://github.com/piyush01123/terminal-music) | 
+            <i class="fas fa-globe"></i>
+[site](personal-mini-cloud.herokuapp.com/)
